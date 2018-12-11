@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is AE27-1E0A
+
+ Directory of C:\Users\B-52\Desktop\myproject
+
+12/11/2018  03:41 PM    <DIR>          .
+12/11/2018  03:41 PM    <DIR>          ..
+12/11/2018  03:41 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  34,540,367,872 bytes free
